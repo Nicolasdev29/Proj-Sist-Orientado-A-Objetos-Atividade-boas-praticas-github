@@ -17,11 +17,15 @@ O projeto SmartDesk, visa otimizar o atendimento de chamados em empresas de méd
 <br/>
 https://github.com/Anabarni Dev
 
+
 https://github.com/Felipe-Freitas-Rocha Scrum Master
+
 
 https://github.com/maioAB Dev
 
+
 https://github.com/MariaFAmaro01 Project Owner
+
 
 https://github.com/Nicolasdev29 Dev
 
@@ -46,7 +50,3 @@ https://github.com/Nicolasdev29 Dev
 
 ### 📌 Sprint Backlog
 <img width="826" height="378" alt="image" src="https://github.com/user-attachments/assets/155653ee-8ad0-40c7-9d9b-ea0fe5d6cffb" />
-
-
-### 📄 Sprint Planning
-<img width="825" height="375" alt="image" src="https://github.com/user-attachments/assets/74a5d73f-1a16-4f8e-ad52-fb2f57b5e8b1" />
