@@ -1,0 +1,44 @@
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos binários
+*.class
+*.jar
+*.war
+*.ear
+*.dll
+*.obj
+*.exe
+
+# Ignorar arquivos de configuração sensíveis (ex: senhas)
+*.env
+.env.*
+config.ini
+credentials.json
+
+# Ignorar diretórios de dependências
+node_modules/
+vendor/
+
+# Ignorar arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de IDEs
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Ignorar arquivos de build
+build/
+dist/
+out/
+
+# Ignorar arquivos temporários
+*~
+*.bak
+*.tmp
+
+
