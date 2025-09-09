@@ -6,7 +6,14 @@ Este repositório individual é parte do projeto PIM 3.0 (Projeto Integrado Mult
 
 O projeto PIM 3.0, intitulado **SmartDesk**, visa otimizar o atendimento de chamados em empresas de médio porte, promovendo agilidade, organização e eficiência nos processos de suporte técnico. Este repositório reflete minha contribuição individual e a aplicação das metodologias aprendidas.
 
+## 👥 Equipe
+
+---
+
+[Nicolas Furtado Rodrigues](https://github.com/Nicolasdev29)
+
 ## 🚀 Requisitos Funcionais e Não Funcionais (SmartDesk)
+
 
 ### Requisitos Funcionais
 
