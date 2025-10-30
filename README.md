@@ -29,11 +29,7 @@ Esse projeto busca **otimizar o atendimento interno** de empresas, **reduzir tem
 
 Este projeto está em **Desenvolvimento Ativo**.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/x2xqJlz1IwAV/giphy.gif" alt="GIF de Progresso - Work in Progress" width="200"/>
-</p>
 
----
 
 ## 🛠️ Tecnologias
 
